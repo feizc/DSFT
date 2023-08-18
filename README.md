@@ -1,4 +1,4 @@
-## One Sample is All You Need: Distilling Supervised Fine-tuning by Extrapolating from One Image-Text Pair
+## One Sample is All You Need: Accelerating Supervised Fine-tuning by One Inversed Image-Text Pair
 
 
 
